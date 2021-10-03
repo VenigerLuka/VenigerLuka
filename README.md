@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VenigerLuka
 - 👀 I’m interested in programming, games, fantasy novels and volleyball.
-- 🌱 I’m currently learning Python3, Flask, Django, PostgreSql, Docker.
+- 🌱 I’m currently learning Python3, Flask, PostgreSql, Docker.
 - 💞️ I’m looking to collaborate on any project from which I can gain expirience and knowlage.
 - 📫 How to reach me: venigerluka@gmail.com
 
